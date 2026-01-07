@@ -17,3 +17,20 @@ Perfect for readers, students, and professionals who spend long hours reading ar
 * JavaScript
 * HTML & CSS
 * Chrome Extensions API
+
+## 🔹 How to Use
+
+1. **Download the extension code**
+
+   * Click **Code → Download ZIP** on this GitHub repository
+   * Extract the folder to a convenient location on your computer
+
+2. **Load the extension in Chrome**
+
+   * Open Chrome and go to:
+
+     ```
+     chrome://extensions
+     ```
+   * Turn on **Developer mode** (top-right toggle)
+   * Click **Load unpacked** → select the folder where you extracted the extension
